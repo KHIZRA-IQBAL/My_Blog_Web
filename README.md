@@ -307,16 +307,5 @@ node_modules
 RESTful Blog Platform API with JWT Authentication, CRUD operations, MongoDB database, and MVC architecture. Built with Node.js and Express.js
 ```
 
-### **Topics/Tags (Add these):**
-```
-nodejs
-expressjs
-mongodb
-jwt-authentication
-restful-api
-backend
-api
-javascript
-mongoose
-bcrypt
+
 
